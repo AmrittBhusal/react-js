@@ -1,0 +1,1 @@
+ls -a (git init gare paxi .git folder baneyo kinai vanera check garna)
