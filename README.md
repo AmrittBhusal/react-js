@@ -11,3 +11,9 @@ npm install
 npm run dev --------------- to run the server 
 
 ```
+
+ti configure tailwind css
+
+```
+
+```
