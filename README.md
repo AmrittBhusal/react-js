@@ -14,6 +14,17 @@ npm run dev --------------- to run the server
 
 ti configure tailwind css
 
-```
+```bash
+npm install tailwindcss @tailwindcss/vite
+
+
+# vite.config.js
+import { defineConfig } from 'vite'
+import tailwindcss from '@tailwindcss/vite'
+export default defineConfig({
+  plugins: [
+    tailwindcss(),
+  ],
+})
 
 ```
