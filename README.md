@@ -27,4 +27,11 @@ export default defineConfig({
   ],
 })
 
+@import "tailwindcss";
+```
+
+
+Racr Router Dom
+```bash
+npm install react-router-dom@6
 ```
