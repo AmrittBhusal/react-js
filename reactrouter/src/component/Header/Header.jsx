@@ -50,7 +50,7 @@ export default function Header() {
                         </li>
                         <li>
                         <NavLink
-                            to="/Gitbub"
+                            to="/github"
                             className={({isActive})=>
                                 ` ${isActive ? "text-orange-500 border-b":"text-gray-400"} font-bold`  
                             }
